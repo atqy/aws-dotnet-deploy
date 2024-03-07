@@ -1,5 +1,7 @@
 # About the AWS Deploy Tool for .NET
 
+![](https://beta.us-west-2.tcx-beacon.docs.aws.dev/basic-beacon/https:||aws.github.io|aws-dotnet-deploy)
+
 **AWS Deploy Tool for .NET** is an interactive tool for the .NET CLI and the AWS Toolkit for Visual Studio that helps deploy .NET applications with minimum AWS knowledge, and with the fewest clicks or commands.
 
 ### Key capabilities
